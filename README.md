@@ -3,7 +3,7 @@
  ### [YouTube Demonstration (you can put in 2x speed, it takes me a few minutes 😂)](https://youtu.be/-4A7Mi9vBm0) 
 
 <h2>Description</h2>
-This is a puzzle game which includes a power bank that must power up all of the wires on the game baord. At the start of each game a unique solution is generated and scrambled up for the user to figure out. To win, the user clicks on individual tiles to rotate wires until all wires are connected and powered! The user can also use the arrow keys to move the move the power bank and diplay different lighting effects and gradients. The score will also be diplayed real-time as the game continues in the top right. Good luck!
+This is a puzzle game which includes a power bank that must power up all of the wires on the game board. At the start of each game a unique solution is generated and scrambled up for the user to figure out. To win, the user clicks on individual tiles to rotate wires until all wires are connected and powered! The user can also use the arrow keys to move the move the power bank and diplay different lighting effects and gradients. The score will also be diplayed real-time as the game continues in the top right. Good luck!
 <br />
 
 
